@@ -1,0 +1,1 @@
+Refer to [the .NET SDK page on azure.com](https://azure.microsoft.com/en-us/documentation/articles/documentdb-sdk-dotnet/) for all information about the .NET SDK, including the Release Notes for each version
